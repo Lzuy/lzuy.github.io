@@ -191,7 +191,7 @@ We'll start with creating a new site with a very basic template.
     <div class="post-meta">
       <span class="post-time"> 2017-08-30 </span>
       <div class="post-category">
-          <a href="/categories/%E4%B8%AD%E6%96%87/"> 中文 </a>
+          <a href="/categories/%E4%B8%AD%E6%96%87%E5%88%86%E7%B1%BB/"> 中文分类 </a>
           </div>
         <span class="more-meta"> 约 1026 字 </span>
         <span class="more-meta"> 预计阅读 3 分钟 </span>
@@ -216,7 +216,7 @@ We'll start with creating a new site with a very basic template.
       <div class="post-category">
           <a href="/categories/shortcodes/"> shortcodes </a>
           </div>
-        <span class="more-meta"> 约 304 字 </span>
+        <span class="more-meta"> 约 342 字 </span>
         <span class="more-meta"> 预计阅读 2 分钟 </span>
     </div>
   </header>
@@ -224,13 +224,24 @@ We'll start with creating a new site with a very basic template.
   <div class="post-content">
     <div class="post-summary">
       <h1 id="admonition">Admonition</h1>
-<!-- raw HTML omitted -->
-<p>biu biu biu.</p>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<div class="admonition note"><p class="admonition-title">I&#39;m title!</p>
+  
+biu biu biu.
+
+<details class="admonition note"><summary class="admonition-title">note</summary>
+  
+biu biu biu.
+
+</details>
+
+<div class="admonition example">
+  
+Without title.
+
+</div>
+
+
+</div>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt"> 1
@@ -247,18 +258,18 @@ We'll start with creating a new site with a very basic template.
 </span><span class="lnt">12
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-markdown" data-lang="markdown">{{% admonition note &#34;I&#39;m title!&#34; false %}}
+<pre class="chroma"><code class="language-markdown" data-lang="markdown">{{&lt; admonition note &#34;I&#39;m title!&#34; false &gt;}}
 biu biu biu.
 
-{{% admonition type=&#34;note&#34; title=&#34;note&#34; details=&#34;true&#34; %}}
+{{&lt; admonition type=&#34;note&#34; title=&#34;note&#34; details=&#34;true&#34; &gt;}}
 biu biu biu.
-{{% /admonition %}}
+{{&lt; /admonition &gt;}}
 
-{{% admonition example %}}
+{{&lt; admonition example &gt;}}
 Without title.
-{{% /admonition %}}
+{{&lt; /admonition &gt;}}
 
-{{% /admonition %}}
+{{&lt; /admonition &gt;}}
 </code></pre></td></tr></table>
 </div>
 </div>
