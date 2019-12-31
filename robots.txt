@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://github.com/Lzuy/sitemap.xml
+Sitemap: https://lzuy.github.io/sitemap.xml
