@@ -1,103 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lzuy - blog</title>
+    <title>Tags on 李国兴的博客</title>
     <link>https://lzuy.github.io/tags/</link>
-    <description>Recent content in Tags on Lzuy - blog</description>
+    <description>Recent content in Tags on 李国兴的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 01:37:56 +0800</lastBuildDate>
     
 	<atom:link href="https://lzuy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>唐玄宗</title>
+      <link>https://lzuy.github.io/tags/%E5%94%90%E7%8E%84%E5%AE%97/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://lzuy.github.io/tags/%E5%94%90%E7%8E%84%E5%AE%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>杨贵妃</title>
+      <link>https://lzuy.github.io/tags/%E6%9D%A8%E8%B4%B5%E5%A6%83/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://lzuy.github.io/tags/%E6%9D%A8%E8%B4%B5%E5%A6%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>白居易</title>
+      <link>https://lzuy.github.io/tags/%E7%99%BD%E5%B1%85%E6%98%93/</link>
+      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
+      
+      <guid>https://lzuy.github.io/tags/%E7%99%BD%E5%B1%85%E6%98%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>preview</title>
       <link>https://lzuy.github.io/tags/preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
       <guid>https://lzuy.github.io/tags/preview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-3</title>
-      <link>https://lzuy.github.io/tags/tag-3/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/tag-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme preview</title>
-      <link>https://lzuy.github.io/tags/theme-preview/</link>
-      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/theme-preview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://lzuy.github.io/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-2</title>
-      <link>https://lzuy.github.io/tags/tag-2/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/tag-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-4</title>
-      <link>https://lzuy.github.io/tags/tag-4/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/tag-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>日本語</title>
-      <link>https://lzuy.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag-1</title>
-      <link>https://lzuy.github.io/tags/tag-1/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/tag-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>中文标签</title>
-      <link>https://lzuy.github.io/tags/%E4%B8%AD%E6%96%87%E6%A0%87%E7%AD%BE/</link>
-      <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/%E4%B8%AD%E6%96%87%E6%A0%87%E7%AD%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://lzuy.github.io/tags/shortcodes/</link>
-      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
-      
-      <guid>https://lzuy.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
